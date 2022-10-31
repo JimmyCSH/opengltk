@@ -1,1 +1,1 @@
-This repo is for development of the R&D project code.
+Repo for testing integration between OpenGL and TKinter in Python.
